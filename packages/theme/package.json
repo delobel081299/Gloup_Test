@@ -1,0 +1,14 @@
+{
+  "name": "@gloup/theme",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "types": "index.ts",
+  "dependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
